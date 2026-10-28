@@ -9,6 +9,9 @@
 # with open('index.html' , 'x') as file:
 #     print('file created')
 
+with open('indexx.html' , 'x') as file:
+    print('file created')
+
 # write ..
 # with open('index.txt' , 'w') as file :
 #     file.write('john\n i am from kannur \n welcome')
@@ -45,6 +48,12 @@
 # with open('index.txt', 'w') as file :
 #     file.write(update_data)
 
+
+#  with open('indexx.txt', 'w') as file :
+# #     file.write(update_data)
+
 #delete file 
 # import os 
-# os.remove('index.html')
+# os.remove('indexx.html')
+
+
